@@ -1,4 +1,4 @@
-#👋 Hi, I’m @zmusaddique
+`#`👋 Hi, I’m @zmusaddique
 - 🌱Someone who loves building good stuff 
 - 
 - 📫 Feel free to reach me on [LinkedIn](linkedin.com/in/muhammed-musaddique-k)
